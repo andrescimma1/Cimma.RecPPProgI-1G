@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1593817724 source:c:\users\user\desktop\cimmarpp\cimma.recppprogi-1g\invertircadena\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
